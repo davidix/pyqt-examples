@@ -1,0 +1,3 @@
+fbs
+PyQt6
+requests
